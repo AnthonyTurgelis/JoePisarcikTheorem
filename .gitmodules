@@ -1,0 +1,3 @@
+[submodule "nflscrapR"]
+	path = nflscrapR
+	url = https://github.com/maksimhorowitz/nflscrapR.git
