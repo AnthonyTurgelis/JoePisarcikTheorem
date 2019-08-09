@@ -1,3 +1,6 @@
 [submodule "nflscrapR"]
 	path = nflscrapR
 	url = https://github.com/maksimhorowitz/nflscrapR.git
+[submodule "nflscrapR-data"]
+	path = nflscrapR-data
+	url = https://github.com/ryurko/nflscrapR-data.git

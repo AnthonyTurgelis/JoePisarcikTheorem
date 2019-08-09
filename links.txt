@@ -1,0 +1,2 @@
+nflscrapR docs - https://www.rdocumentation.org/packages/nflscrapR/versions/1.8.1
+nflscrapR in Python - https://gist.github.com/Deryck97/fa4abc0e66b77922634be9f51f9a1052
