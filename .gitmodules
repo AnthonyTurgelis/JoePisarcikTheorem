@@ -4,3 +4,6 @@
 [submodule "nflscrapR-data"]
 	path = nflscrapR-data
 	url = https://github.com/ryurko/nflscrapR-data.git
+[submodule "2018_nfl_rosters"]
+	path = 2018_nfl_rosters
+	url = https://github.com/AnthonyTurgelis/2018_nfl_rosters
